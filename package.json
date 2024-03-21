@@ -1,0 +1,19 @@
+{
+  "name": "tgi",
+  "version": "1.1.8",
+  "description": "TGI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "TGI",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mssql": "^10.0.2",
+    "sql": "^0.78.0"
+  }
+}

@@ -1,4 +1,3 @@
-const { connectDB, closeDB, pool } = require("../databaseHandler");
 const { fetchRoles, sortRoles } = require("../../user/roleWorker");
 const { fetchToken } = require("../../api/fetchToken");
 const axios = require("axios");

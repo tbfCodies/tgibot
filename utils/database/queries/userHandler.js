@@ -162,7 +162,6 @@ const fetchUserData = async (userId) => {
 };
 
 module.exports = {
-  addUser,
   checkForUser,
   updatedAddedRoles,
   updatedRemovedRoles,

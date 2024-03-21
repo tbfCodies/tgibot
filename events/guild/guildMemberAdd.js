@@ -1,5 +1,4 @@
 const Discord = require("discord.js");
-const { addUser, checkForUser, fetchUserData } = require("../../utils/database/queries/userHandler");
 
 module.exports = {
     name: "guildMemberAdd",
